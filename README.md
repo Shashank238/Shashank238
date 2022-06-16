@@ -24,4 +24,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shashank238" alt="Shashank238a" /></a> </p> 
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shashank238&show_icons=true&locale=en&layout=compact" alt="Shashank238d" /></p>
  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shashank238&show_icons=true&locale=en" alt="Shashank238fd" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shashank238&" alt="Shashank238dss" /></p>
