@@ -15,7 +15,7 @@
  ### Here are the Projects that I have Worked:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shashank238&repo=Automatic_licence_plate_det_OCR)](https://github.com/Shashank238/Automatic_licence_plate_det_OCR)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shashank238&repo=Wafer_Fault_Detection_CI-CD)](https://github.com/Shashank238/Wafer_Fault_Detection_CI-CD)
- 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shashank238&repo=Health-Insurance-cross-sell-prediction)](https://github.com/Shashank238/Health-Insurance-cross-sell-prediction) 
  
 ### My GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shashank238&show_icons=true&theme=dracula)
