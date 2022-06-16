@@ -21,6 +21,6 @@
  
 ### My GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shashank238&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank238&layout=compact)](https://github.com/Shashank238/me/edit/main/README.md) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank238&layout=compact)](https://github.com/Shashank238/me/edit/main/README.md) 
  
 
