@@ -14,6 +14,7 @@
  
  ### Here are the Projects that I have Worked:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shashank238&repo=Automatic_licence_plate_det_OCR)](https://github.com/Shashank238/Automatic_licence_plate_det_OCR)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shashank238&repo=Wafer_Fault_Detection_CI-CD)](https://github.com/Shashank238/Wafer_Fault_Detection_CI-CD)
  
  
 ### My GitHub Stats
