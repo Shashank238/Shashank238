@@ -20,6 +20,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shashank238&repo=LandUseClassificationDeployment)](https://github.com/Shashank238/LandUseClassificationDeployment)
  
 ### My GitHub Stats
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shashank238&label=Profile%20views&color=0e75b6&style=flat" alt="Shashank238" /> </p>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shashank238&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank238&layout=compact)](https://github.com/Shashank238/me/edit/main/README.md) 
  
